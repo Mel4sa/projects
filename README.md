@@ -1,1 +1,1 @@
-# projects
+# Veri Bilimi İcin istatistik
