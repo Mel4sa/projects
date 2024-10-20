@@ -1,1 +1,1 @@
-# Veri Bilimi İcin istatistik
+# employee salary adındaki veri setine z,t testleri ,eksik veri çıkarma,boşlukları istenilen değerle doldurma,yeni satır veya sütun oluşturma,kutu histogram ve QQ grafiği oluşturma,veri setinin medyan mod standart sapmasını hesaplama gibi işlemler uygulanarak veri seti incelenmiştir.
