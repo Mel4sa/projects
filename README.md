@@ -1,1 +1,1 @@
-# employee salary adındaki veri setine z,t testleri ,eksik veri çıkarma,boşlukları istenilen değerle doldurma,yeni satır veya sütun oluşturma,kutu histogram ve QQ grafiği oluşturma,veri setinin medyan mod standart sapmasını hesaplama gibi işlemler uygulanarak veri seti incelenmiştir.
+# employee salary adındaki veri setine z,t testleri ,eksik veri cıkarma,boslukları istenilen degerle doldurma,yeni satır veya sutun olusturma,kutu histogram ve QQ grafigi olusturma,veri setinin medyan mod standart sapmasını hesaplama gibi islemler uygulanarak veri seti incelenmistir.
